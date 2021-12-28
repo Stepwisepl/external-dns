@@ -29,6 +29,7 @@ rbac:
 podLabels: {}
 
 podAnnotations: {}
+deploymentAnnotations: {}
 
 podSecurityContext:
   fsGroup: 65534
